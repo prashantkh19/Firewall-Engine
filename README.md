@@ -4,4 +4,4 @@ A firewall rule consists of several clauses chained together to match specific c
 
 The developed engine applies encoded rules on any incoming packet.
 
-    This is part of my project of Logic in Computer Science course at BITS Pilani.
+    This is part of my project of 'Logic in Computer Science' course at BITS Pilani.
